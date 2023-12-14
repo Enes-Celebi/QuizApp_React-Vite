@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Which of the following sentences is grammatically correct?",
+      "options": [
+        {"text": "He don't like coffee.", "isCorrect": false},
+        {"text": "She doesn't likes coffee.", "isCorrect": false},
+        {"text": "I doesn't like coffee.", "isCorrect": false},
+        {"text": "They don't like coffee.", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "What is the correct plural form of 'child'?",
+      "options": [
+        {"text": "Childs", "isCorrect": false},
+        {"text": "Childen", "isCorrect": false},
+        {"text": "Children", "isCorrect": true},
+        {"text": "Childies", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Identify the correct sentence:",
+      "options": [
+        {"text": "Whom did you see at the party?", "isCorrect": true},
+        {"text": "Who did you see at the party?", "isCorrect": false},
+        {"text": "Whose did you see at the party?", "isCorrect": false},
+        {"text": "Whom you saw at the party?", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Choose the correct use of the apostrophe:",
+      "options": [
+        {"text": "The dogs bone is buried in the backyard.", "isCorrect": false},
+        {"text": "The dog's bone is buried in the backyard.", "isCorrect": true},
+        {"text": "The dogs' bone is buried in the backyard.", "isCorrect": false},
+        {"text": "The dogs bones are buried in the backyard.", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the proper way to combine these two sentences? 'I love pizza. I love burgers.'",
+      "options": [
+        {"text": "I love pizza and burgers.", "isCorrect": true},
+        {"text": "I love pizza, and I love burgers.", "isCorrect": false},
+        {"text": "I love pizza and burgers, both.", "isCorrect": false},
+        {"text": "I love pizza and burgers, too.", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Choose the correct form of the comparative adjective: 'good.'",
+      "options": [
+        {"text": "More good", "isCorrect": false},
+        {"text": "Gooder", "isCorrect": false},
+        {"text": "Better", "isCorrect": true},
+        {"text": "Goodest", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "What is the correct order of words in an interrogative sentence?",
+      "options": [
+        {"text": "Subject-Verb-Object", "isCorrect": false},
+        {"text": "Object-Subject-Verb", "isCorrect": false},
+        {"text": "Verb-Subject-Object", "isCorrect": false},
+        {"text": "Subject-Object-Verb", "isCorrect": true}
+      ]
+    },
+    {
+      "question": "Identify the sentence with correct punctuation:",
+      "options": [
+        {"text": "I enjoy reading books.", "isCorrect": true},
+        {"text": "I enjoy reading, books.", "isCorrect": false},
+        {"text": "I enjoy, reading books.", "isCorrect": false},
+        {"text": "I enjoy reading; books.", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Which sentence uses correct subject-verb agreement?",
+      "options": [
+        {"text": "The team are playing well.", "isCorrect": false},
+        {"text": "The team is playing well.", "isCorrect": true},
+        {"text": "The team were playing well.", "isCorrect": false},
+        {"text": "The team am playing well.", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "Choose the correct form of the irregular verb: 'go.'",
+      "options": [
+        {"text": "Goed", "isCorrect": false},
+        {"text": "Went", "isCorrect": true},
+        {"text": "Gone", "isCorrect": false},
+        {"text": "Going", "isCorrect": false}
+      ]
+    }
+  ]
+  

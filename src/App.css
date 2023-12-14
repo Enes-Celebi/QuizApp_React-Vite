@@ -1,0 +1,78 @@
+body {
+  background-color: #c8f7ff;
+  font-family: 'Courier New', Courier, monospace; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  background-color: #00c3ff; 
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgb(0, 0, 0); 
+}
+
+.start-form {
+  background-color: #67dbff; 
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.quiz-container {
+  border: 1px solid #00c3ff; 
+  padding: 20px;
+  background-color: #00c3ff; 
+  border-radius: 8px;
+  margin-top: 20px;
+  position: relative;
+}
+
+.timer {
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: #4e342e;
+}
+
+.options {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.option {
+  background-color: rgb(248, 192, 10);
+  color: white;
+  padding: 8px 16px;
+  margin: 8px 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  flex: 1;
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0); 
+}
+
+.option:hover {
+  background-color: rgb(255, 216, 88); 
+}
+
+.option.correct {
+  background-color: green;
+}
+
+.option.incorrect {
+  background-color: red;
+}
+
+.option.selected {
+  background-color: rgb(206, 158, 2);
+  color: white;
+}
